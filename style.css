@@ -21,6 +21,7 @@ body{
     height: 100vh;
     display: flex;
     align-items: center;
+    background-color: var(--Very-light-gray);
 }
 p{
     font-family: 'Lexend Deca', sans-serif; 
